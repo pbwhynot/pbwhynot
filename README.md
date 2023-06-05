@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **various school projects**
 
-🌱 I’m currently learning **C#, SQL, JavaScript, Flutter**
+🌱 I’m currently learning **C#, SQL, JavaScript and Flutter**
 
 ⚡ I am one year in to the Web & Mobile Application Development program at NBCC
 
