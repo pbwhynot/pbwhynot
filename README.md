@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **various school projects**
 
-- 🌱 I’m currently learning **C#, SQL, Java, Flutter, etc.**
+- 🌱 I’m currently learning **C#, SQL, JavaScript, Flutter, etc.**
 
 - 🤝 I look forward to graduating from NBCC in 2024 and starting a career in tech!
 
