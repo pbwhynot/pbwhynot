@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **C#, SQL, JavaScript and Flutter**
 
-⚡ I am one year in to the Web & Mobile Application Development program at NBCC
+⚡ I'm one year in to the Web & Mobile Application Development program at NBCC
 
 <p align="left">
 </p>
