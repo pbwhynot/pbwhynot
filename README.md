@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Peter Whynot</h1>
-<h3 align="left">I'm a web & mobile developer from Moncton, NB.</h3>
+<h3 align="left">I'm a developer from Moncton, NB.</h3>
 
 🔭 I’m currently working on **various school projects.**
 
