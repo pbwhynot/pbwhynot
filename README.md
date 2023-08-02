@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Peter Whynot</h1>
 <h3 align="left">I'm a developer from Moncton, NB.</h3>
 
-🔭 I’m currently working on **various school projects.**
+🔭 I’m currently working on **an iPhone app while learning various frameworks and languages.**
 
-🌱 I’m currently learning **C#, SQL, JavaScript and Flutter.**
+🌱 I’m especially focused on learning **C#, SQL, JavaScript, Swift, and Java.**
 
-⚡ I'm one year in to the 'Web & Mobile Application Development' program at NBCC.
+⚡ I'm currently enrolled in the 'Web & Mobile Application Development' program at NBCC in Moncton, New Brunswick.
 
 <p align="left">
 </p>
