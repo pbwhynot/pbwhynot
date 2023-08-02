@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **an iOS app while learning various frameworks and languages (while working part-time at Canadian Tire).**
 
-🌱 I’m especially focused on learning **C#, SQL, JavaScript, Swift, Kotlin, PHP and Java.**
+🌱 I’m especially focused on learning **C#, SQL, JavaScript, Swift, Kotlin, PHP, Python, and Java.**
 
 ⚡ I'm currently enrolled in the 'Web & Mobile Application Development' program at NBCC in Moncton, New Brunswick.
 
