@@ -3,7 +3,7 @@
 
 🌱 I’m currently working on **learning various programming frameworks and languages.** 
 
-⚡ I'm currently enrolled in the **'Web & Mobile Application Development' program** at NBCC in Moncton, New Brunswick.
+⚡ I'm currently enrolled in the **'Web & Mobile Application Development'** program at NBCC in Moncton, New Brunswick.
 
 <p align="left">
 </p>
