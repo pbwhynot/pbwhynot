@@ -8,8 +8,6 @@
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pbwhynot&" alt="pbwhynot" /></p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=pbwhynot&theme=tokyonight)](https://git.io/streak-stats)
 
 
