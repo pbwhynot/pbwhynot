@@ -5,7 +5,6 @@
 
 ⚡ I'm currently enrolled in the 'Web & Mobile Application Development' program at NBCC in Moncton, New Brunswick.
 
-
 <p align="left">
 </p>
 
