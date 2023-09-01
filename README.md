@@ -8,7 +8,7 @@
 <p align="left">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pbwhynot&theme=dracula&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pbwhynot&theme=monokai)](https://git.io/streak-stats)
 
 
 
