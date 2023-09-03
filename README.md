@@ -3,7 +3,7 @@
 
 🌱 I’m currently working on learning various frameworks and languages.
 
-⚡ I'm currently enrolled in the two-year 'Web & Mobile Application Development' program at NBCC in Moncton, New Brunswick. I hope to graduate in June of 2024.
+⚡ I'm enrolled in the two-year **'Web & Mobile Application Development'** program at NBCC in Moncton, New Brunswick. I look forward to graduating in June of 2024.
 
 <p align="left">
 </p>
