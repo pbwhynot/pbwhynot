@@ -8,7 +8,7 @@
 <p align="left">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pbwhynot)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pbwhynot&theme=omni)](https://git.io/streak-stats)
 
 
 
