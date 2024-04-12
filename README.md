@@ -5,6 +5,8 @@
 
 🌱 I’m actively working on learning various frameworks and languages.
 
+💻 Check out my portfolio website in my bio to see some of the stuff I've been working on!
+
 <p align="left">
 </p>
 
